@@ -1,4 +1,4 @@
-# Customer Ranking & Growth Trend Analysis
+# SQL Customer Churn, Ranking, and Cohort Trend Analysis
 
 ## Business Problem and Context
 
