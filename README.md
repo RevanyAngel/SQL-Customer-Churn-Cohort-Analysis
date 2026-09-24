@@ -1,4 +1,4 @@
-# SQL Relational Database & Advanced Analytics
+# Customer Ranking & Growth Trend Analysis
 
 ## Business Problem and Context
 
