@@ -164,7 +164,7 @@ GROUP BY c.city;
 | Bandung | Rp 500.000 | 1 |
 | Jakarta | Rp 3.500.000 | 2 |
 
-4. Advanced CTEs and Window Functions
+### 4. Advanced CTEs and Window Functions
 Ranking top-tier customers and evaluating Month-on-Month (MoM) sales velocity using advanced windowing.
 
 ```
